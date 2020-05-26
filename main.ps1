@@ -7,6 +7,7 @@ function startSearch(){
 
     
         [System.Windows.MessageBox]::Show('Please open main and aux file first')
+        return
 
     }
 
